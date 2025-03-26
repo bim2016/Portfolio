@@ -10,7 +10,6 @@ Rhino Inside Revit -> done
 Beam/Speckle
 Grasshopper -> done
 pyRevit v5.0 -> done
-Data Exchange API
 Autodesk Data Connector for Power BI
 Autodesk Data Connector for Dynamo
 APS (Forge) -> done
@@ -30,3 +29,4 @@ Git/GitHub -> done
 AU2024
 advanced C#, SQLite, SQL Server -> done
 openBIM (IFC)
+Autodesk Data Exchange API/SDK -> done
